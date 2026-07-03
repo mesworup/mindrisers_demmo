@@ -20,3 +20,20 @@ git log
 git config --global user.name "your_name"
 git config --global ser.email your_email
 
+# Check branch
+git branch
+
+# Create branch
+git branch branch_name
+
+# Switch Branches
+git switch branch_name
+git checkout branch_name
+
+### If euta branch ma maile files banayo ki arko branch ma dekhaudaina merge nagare samma.
+
+
+# Merge Branches
+git merge branch_name
+
+# 
