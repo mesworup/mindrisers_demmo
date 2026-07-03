@@ -1,3 +1,5 @@
+# GIT: source control, tracks files and folders
+# conpare the prev state and current state of the folder
 # Initialize local git
 git init
 
@@ -7,4 +9,14 @@ git add .           //add multiple files
 
 # Commit file to git
 git commit =m "message"
+
+# Status check of this repo
+git status
+
+# Check logs
+git log
+
+# Global user and email/ defining identity
+git config --global user.name "your_name"
+git config --global ser.email your_email
 
