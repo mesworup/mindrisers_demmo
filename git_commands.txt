@@ -1,0 +1,6 @@
+# Initialize local git
+git init
+
+# Add file to the git
+git add file_name   //add single files
+git add .           //add multiple files
