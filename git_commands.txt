@@ -20,3 +20,4 @@ git log
 git config --global user.name "your_name"
 git config --global ser.email your_email
 
+# just example edited for merge
