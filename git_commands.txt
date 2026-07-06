@@ -41,4 +41,7 @@ git remote -v
 
 # push with upstream
 git push -u origin main
+git push
 
+# other branch
+git push origin branch_name
