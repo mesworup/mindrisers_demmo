@@ -36,4 +36,5 @@ git checkout branch_name
 # Merge Branches
 git merge branch_name
 
-# 
+# show which repo are we in github
+git remote -v
