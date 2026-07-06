@@ -38,3 +38,7 @@ git merge branch_name
 
 # show which repo are we in github
 git remote -v
+
+# push with upstream
+git push -u origin main
+
